@@ -53,6 +53,8 @@
 
       
 Тестирование
-<img width="261" height="338" alt="Снимок экрана (20)" src="https://github.com/user-attachments/assets/8d11b23c-5040-4b17-9de7-71c4972f24af" />
-<img width="805" height="404" alt="Снимок экрана (21)" src="https://github.com/user-attachments/assets/735ef2f9-e0d1-4be7-87f0-4916880d84b2" />
 
+
+  <img width="261" height="338" alt="Снимок экрана (20)" src="https://github.com/user-attachments/assets/8d11b23c-5040-4b17-9de7-71c4972f24af" />
+  <img width="805" height="404" alt="Снимок экрана (21)" src="https://github.com/user-attachments/assets/735ef2f9-e0d1-4be7-87f0-4916880d84b2" />
+  
